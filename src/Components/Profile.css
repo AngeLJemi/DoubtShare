@@ -1,0 +1,47 @@
+.whole{
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(to top , rgb(87, 235, 205), rgb(103, 179, 234));
+  }
+.profile-container {
+    padding: 20px;
+    border-radius: 8px;
+    width: 70vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto auto;
+  }
+ 
+  .profile-container h2 {
+    margin-top: 80px;
+    font-size: 24px;
+    color: #041a1b;
+  }
+  
+  .profile-info {
+    font-size: 18px;
+    margin-top: 30px;
+    
+  }
+  
+  .profile-info table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+  }
+  
+  .profile-info th,
+  .profile-info td {
+    padding: 12px;
+    text-align: left;
+    box-shadow: 0 0 10px #290b0b0b;
+  }
+  
+  .profile-info th {
+    background-color: #f2f2f2d3;
+  }
+  
+  /* Add more styles as needed */
+  

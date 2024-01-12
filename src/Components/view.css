@@ -1,0 +1,34 @@
+/* styles.css */
+
+.container {
+    width: 550px;
+    height: 400px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .header {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .userDetails {
+    width: 500px;
+    height: 300px;
+    margin: auto;
+    background-color: #f9f9f9;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 20px;
+  }
+  .userDetails p {
+    margin: 10px;
+  }
+  
+  .notFound {
+    color: red;
+  }
+  
